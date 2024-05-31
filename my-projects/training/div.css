@@ -1,0 +1,25 @@
+.one{
+	width: 28%;
+	float: left;
+	margin: 15px;
+	background-color: lightblue;
+	padding: 10px;
+	color: white;
+}
+
+.two{
+	width: 28%;
+	float: left;
+	margin: 15px;
+	background-color: magenta;
+	padding: 10px;
+}
+
+.three{
+	width: 28%;
+	float: left;
+	margin: 15px;
+	background-color: lightpink;
+	padding: 10px;
+	color: white;
+}
